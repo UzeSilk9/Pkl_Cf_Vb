@@ -1,0 +1,88 @@
+C:\Users\THOR\AppData\Local\Temporary Projects\Certainy_Faktor\bin\Debug\Certainy_Faktor.exe
+C:\Users\THOR\AppData\Local\Temporary Projects\Certainy_Faktor\bin\Debug\Certainy_Faktor.pdb
+C:\Users\THOR\AppData\Local\Temporary Projects\Certainy_Faktor\bin\Debug\Certainy_Faktor.xml
+C:\Users\THOR\AppData\Local\Temporary Projects\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Login.resources
+C:\Users\THOR\AppData\Local\Temporary Projects\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Resources.resources
+C:\Users\THOR\AppData\Local\Temporary Projects\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.vbproj.GenerateResource.Cache
+C:\Users\THOR\AppData\Local\Temporary Projects\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.exe
+C:\Users\THOR\AppData\Local\Temporary Projects\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.xml
+C:\Users\THOR\AppData\Local\Temporary Projects\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.pdb
+C:\Users\THOR\AppData\Local\Temporary Projects\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Menu_Pakar.resources
+C:\Users\THOR\AppData\Local\Temporary Projects\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Menu_User.resources
+C:\Users\THOR\AppData\Local\Temporary Projects\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Input_Gejala.resources
+C:\Users\THOR\AppData\Local\Temporary Projects\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Input_Penyakit.resources
+C:\Users\THOR\AppData\Local\Temporary Projects\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Input_Rules.resources
+D:\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.exe
+D:\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.xml
+D:\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.pdb
+D:\Certainy_Faktor\Certainy_Faktor\bin\Debug\Certainy_Faktor.exe
+D:\Certainy_Faktor\Certainy_Faktor\bin\Debug\Certainy_Faktor.pdb
+D:\Certainy_Faktor\Certainy_Faktor\bin\Debug\Certainy_Faktor.xml
+D:\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Diagnosa.resources
+D:\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Input_Gejala.resources
+D:\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Input_Penyakit.resources
+D:\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Login.resources
+D:\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Menu_Pakar.resources
+D:\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Menu_User.resources
+D:\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Resources.resources
+D:\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.vbproj.GenerateResource.Cache
+D:\Certainy_Faktor\Certainy_Faktor\bin\Debug\MySql.Data.dll
+D:\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.vbprojAssemblyReference.cache
+D:\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.vbproj.CoreCompileInputs.cache
+D:\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.vbproj.CopyComplete
+D:\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Basis_Pengetahuan.resources
+D:\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Input_Data_Pasien.resources
+D:\ASIH\SEMESTER 6\PKL\Certainy_Faktor\Certainy_Faktor\bin\Debug\Certainy_Faktor.exe
+D:\ASIH\SEMESTER 6\PKL\Certainy_Faktor\Certainy_Faktor\bin\Debug\Certainy_Faktor.pdb
+D:\ASIH\SEMESTER 6\PKL\Certainy_Faktor\Certainy_Faktor\bin\Debug\Certainy_Faktor.xml
+D:\ASIH\SEMESTER 6\PKL\Certainy_Faktor\Certainy_Faktor\bin\Debug\MySql.Data.dll
+D:\ASIH\SEMESTER 6\PKL\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.vbprojAssemblyReference.cache
+D:\ASIH\SEMESTER 6\PKL\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Diagnosa.resources
+D:\ASIH\SEMESTER 6\PKL\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Input_Data_Pasien.resources
+D:\ASIH\SEMESTER 6\PKL\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Input_Gejala.resources
+D:\ASIH\SEMESTER 6\PKL\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Input_Penyakit.resources
+D:\ASIH\SEMESTER 6\PKL\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Basis_Pengetahuan.resources
+D:\ASIH\SEMESTER 6\PKL\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Login.resources
+D:\ASIH\SEMESTER 6\PKL\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Menu_Pakar.resources
+D:\ASIH\SEMESTER 6\PKL\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Menu_User.resources
+D:\ASIH\SEMESTER 6\PKL\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Resources.resources
+D:\ASIH\SEMESTER 6\PKL\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.vbproj.GenerateResource.cache
+D:\ASIH\SEMESTER 6\PKL\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.vbproj.CoreCompileInputs.cache
+D:\ASIH\SEMESTER 6\PKL\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.vbproj.CopyComplete
+D:\ASIH\SEMESTER 6\PKL\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.exe
+D:\ASIH\SEMESTER 6\PKL\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.xml
+D:\ASIH\SEMESTER 6\PKL\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.pdb
+D:\My Data\Data Perkuliahan\Semester 6\Praktek Kerja Lapangan\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.exe
+D:\My Data\Data Perkuliahan\Semester 6\Praktek Kerja Lapangan\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.xml
+D:\My Data\Data Perkuliahan\Semester 6\Praktek Kerja Lapangan\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.pdb
+D:\My Data\Data Perkuliahan\Semester 6\Praktek Kerja Lapangan\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\bin\Debug\Certainy_Faktor.exe
+D:\My Data\Data Perkuliahan\Semester 6\Praktek Kerja Lapangan\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\bin\Debug\Certainy_Faktor.pdb
+D:\My Data\Data Perkuliahan\Semester 6\Praktek Kerja Lapangan\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\bin\Debug\Certainy_Faktor.xml
+D:\My Data\Data Perkuliahan\Semester 6\Praktek Kerja Lapangan\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.vbprojResolveAssemblyReference.cache
+D:\My Data\Data Perkuliahan\Semester 6\Praktek Kerja Lapangan\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Diagnosa.resources
+D:\My Data\Data Perkuliahan\Semester 6\Praktek Kerja Lapangan\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Input_Data_Pasien.resources
+D:\My Data\Data Perkuliahan\Semester 6\Praktek Kerja Lapangan\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Input_Gejala.resources
+D:\My Data\Data Perkuliahan\Semester 6\Praktek Kerja Lapangan\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Input_Penyakit.resources
+D:\My Data\Data Perkuliahan\Semester 6\Praktek Kerja Lapangan\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Basis_Pengetahuan.resources
+D:\My Data\Data Perkuliahan\Semester 6\Praktek Kerja Lapangan\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Login.resources
+D:\My Data\Data Perkuliahan\Semester 6\Praktek Kerja Lapangan\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Menu_Pakar.resources
+D:\My Data\Data Perkuliahan\Semester 6\Praktek Kerja Lapangan\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Menu_User.resources
+D:\My Data\Data Perkuliahan\Semester 6\Praktek Kerja Lapangan\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Resources.resources
+D:\My Data\Data Perkuliahan\Semester 6\Praktek Kerja Lapangan\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.vbproj.GenerateResource.Cache
+C:\xampp8\htdocs\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.exe
+C:\xampp8\htdocs\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.xml
+C:\xampp8\htdocs\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.pdb
+C:\xampp8\htdocs\Certainy_Faktor\Certainy_Faktor\bin\Debug\Certainy_Faktor.exe
+C:\xampp8\htdocs\Certainy_Faktor\Certainy_Faktor\bin\Debug\Certainy_Faktor.pdb
+C:\xampp8\htdocs\Certainy_Faktor\Certainy_Faktor\bin\Debug\Certainy_Faktor.xml
+C:\xampp8\htdocs\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.vbprojResolveAssemblyReference.cache
+C:\xampp8\htdocs\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Diagnosa.resources
+C:\xampp8\htdocs\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Input_Data_Pasien.resources
+C:\xampp8\htdocs\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Input_Gejala.resources
+C:\xampp8\htdocs\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Input_Penyakit.resources
+C:\xampp8\htdocs\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Basis_Pengetahuan.resources
+C:\xampp8\htdocs\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Login.resources
+C:\xampp8\htdocs\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Menu_Pakar.resources
+C:\xampp8\htdocs\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Menu_User.resources
+C:\xampp8\htdocs\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.Resources.resources
+C:\xampp8\htdocs\Certainy_Faktor\Certainy_Faktor\obj\x86\Debug\Certainy_Faktor.vbproj.GenerateResource.Cache
